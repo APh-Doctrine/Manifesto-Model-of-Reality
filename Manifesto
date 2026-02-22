@@ -1,1 +1,90 @@
+\documentclass[12pt,a4paper]{article}
+
+% Настройка кодировок и шрифтов
+\usepackage[utf8]{inputenc}
+\usepackage[T2A]{fontenc}
+\usepackage[russian,english]{babel}
+
+% Математические пакеты
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsfonts}
+\usepackage{unicode-math} % Для специфических символов вроде 𝖮𝖱 и 𝔘
+
+\usepackage[margin=1in]{geometry}
+\usepackage{hyperref}
+
+\begin{document}
+
+\begin{center}
+    {\LARGE \textbf{APh DOCTRINE: A Set-Theoretic Model of Reality}} \\
+    \vspace{0.5cm}
+    \textbf{Author:} Oleg Kurbanov \\
+    \textbf{Contacts:} \href{mailto:doctrine_xxi@icloud.com}{doctrine\_xxi@icloud.com}
+\end{center}
+
+\vspace{1cm}
+
+\section*{DOCTRINE FORMULA}
+
+\noindent \textbf{\textsf{OR}} \\
+\textbf{ABSOLUTE Objective Reality} \\
+\textit{ALL Everything unknowable, everything knowable, everything that is, always.} \\
+$1\infty \ \langle \mathfrak{U}, \mathfrak{U} \rangle \ (1, 1) \ [1, 1, 1]$
+
+\vspace{0.5cm}
+
+\noindent \textbf{NOTHING} \\
+\textit{Nothing from the unknowable, nothing from the knowable,} \\
+$0\infty \ \langle \emptyset, \emptyset \rangle \ (\emptyset, \emptyset) \ [\emptyset, \emptyset, \emptyset]$ \\
+It's nothing, \\
+Didn't exist, doesn't exist, won't exist.
+
+\vspace{0.5cm}
+
+\noindent \textbf{THEN REFUTATION} \\
+$\mathsf{OR} \equiv 1\infty \cup 0\infty$ \\
+$\mathsf{OR} \implies \top ! \mid \mathsf{OR} ( B \wedge \nabla(B) ) \downarrow \mathsf{AxOBJ} \mid \mathsf{OR} \vdash \mathfrak{S}^* \circlearrowleft \langle B_1 \dots B_n ; \Sigma \rangle \twoheadrightarrow \mathfrak{AR} \equiv \langle \mathfrak{A}, \mathfrak{R}; \Sigma \rangle$ \\
+$\mathfrak{D} : \mathfrak{S}^* \circlearrowleft \to 0\infty$ \\
+$\sim \mathfrak{D} \implies \neg(\mathfrak{S}^* \circlearrowleft \twoheadrightarrow \mathfrak{AR})$
+
+\vspace{1cm}
+
+\section*{ABSTRACT}
+The APh Doctrine establishes a formal framework for interpreting reality through a closed architectural model. By utilizing set-theoretic formalism and the principle of generative closure, it defines the limit of cognition and the synthesis of derivative realities.
+
+\section*{PRINCIPAL IMPLICATIONS}
+
+\subsection*{Mathematics}
+\begin{itemize}
+    \item \textbf{Indeterminacy:} Formal substantiation of the impossibility of overcoming fundamental uncertainty.
+    \item \textbf{Axiomatic Logic:} Re-evaluation of the Axiom of Choice and Gödelian Completeness/Incompleteness within the APh framework.
+\end{itemize}
+
+\subsection*{Physics}
+\begin{itemize}
+    \item \textbf{Ontology of Entities:} Theoretical physics is defined as operating with objects of "phantom reality."
+    \item \textbf{Temporal Reality:} Time, its derivatives, and terms containing "Time" are identified as lacking independent physical existence.
+    \item \textbf{GUT:} The construction of a Grand Unified Theory is proven to be fundamentally impossible.
+    \item \textbf{Schrödinger’s Discovery:} Conceptual substantiation of wave mechanics and quantum phenomena.
+\end{itemize}
+
+\subsection*{Economics and Finance}
+\begin{itemize}
+    \item \textbf{Money–Time Identity:} The core of financial information system, leading to their reconfiguration.
+    \item \textbf{Property–Object of Law Identity:} Refutation of the classical Property theories of Smith, Ricardo, Marx, and Coase.
+\end{itemize}
+
+\subsection*{AI, UIS \& ERP}
+\begin{itemize}
+    \item \textbf{Universal Information System (UIS):} The core for next-generation informational and operational systems.
+    \item Integration of APh results in a radical leap in data processing power.
+\end{itemize}
+
+\vfill
+\begin{center}
+    \textit{The APh Doctrine — A Final Framework for Universal Architecture}
+\end{center}
+
+\end{document}
 
