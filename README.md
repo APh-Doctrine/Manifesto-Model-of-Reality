@@ -15,9 +15,9 @@ The **APh Doctrine** establishes a formal framework for interpreting reality thr
 
 $$ \mathsf{OR} \equiv 1^\infty \cup 0^\infty $$
 
-$$ \mathsf{OR} \implies \top ! \mid \mathsf{OR} ( B \wedge \nabla(B) ) \downarrow \mathsf{Ax_{OBJ} \mid \mathsf{OR} \vdash \mathfrak{S}^{* \circlearrowleft} \langle B_1 \dots B_n ; \Sigma \rangle \twoheadrightarrow \mathfrak{AR} \equiv \langle \mathfrak{A}, \mathfrak{R}; \Sigma \rangle $$
+$$ \mathsf{OR} \implies \top ! \mid \mathsf{OR} ( B \wedge \nabla(B) ) \downarrow \mathsf{Ax_{OBJ} \mid \mathsf{OR} \vdash \mathfrak{S}^{*\circlearrowleft} \langle B_1 \dots B_n ; \Sigma \rangle \twoheadrightarrow \mathfrak{AR} \equiv \langle \mathfrak{A}, \mathfrak{R}; \Sigma \rangle $$
 
-$$ \mathfrak{D} : \mathfrak{S}^{* \circlearrowleft} \to 0^\infty $$
+$$ \mathfrak{D} : \mathfrak{S}^{*\circlearrowleft} \to 0^\infty $$
 
 ## 🔑 Principal Implications
 *   **Mathematics:** Formal substantiation of fundamental uncertainty and re-evaluation of Gödelian Incompleteness.
