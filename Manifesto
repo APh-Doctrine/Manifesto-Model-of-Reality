@@ -1,18 +1,13 @@
 \documentclass[12pt,a4paper]{article}
-
-% Настройка кодировок и шрифтов
 \usepackage[utf8]{inputenc}
 \usepackage[T2A]{fontenc}
-\usepackage[russian,english]{babel}
+\usepackage[russian]{babel}
+\usepackage{amsmath, amssymb, amsfonts}
 
-% Математические пакеты
-\usepackage{amsmath}
-\usepackage{amssymb}
-\usepackage{amsfonts}
-\usepackage{unicode-math} % Для специфических символов вроде 𝖮𝖱 и 𝔘
+% Вместо unicode-math для стандартных редакторов используем:
+\usepackage{mathrsfs} 
 
-\usepackage[margin=1in]{geometry}
-\usepackage{hyperref}
+
 
 \begin{document}
 
