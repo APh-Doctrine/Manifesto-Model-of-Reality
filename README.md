@@ -4,7 +4,6 @@
 ![LaTeX](https://img.shields.io)
 
 ### Author: Oleg Kurbanov
-**Contact:** [doctrine_xxi@icloud.com](mailto:doctrine_xxi@icloud.com)
 
 ---
 
@@ -28,6 +27,6 @@ $$ \mathfrak{D} : \mathfrak{S}^{*\circlearrowleft} \to 0^\infty $$
 ---
 
 ##  Usage
-The source code for the doctrine is provided in `doctrine.tex`. You can compile it using any LaTeX distribution (TeX Live, MiKTeX) or online editors like Overleaf.
+'doctrine.pdf' : the source code for the doctrine is provided in `doctrine.tex`. You can compile it using any LaTeX distribution (TeX Live, MiKTeX) or online editors like Overleaf.
 
 > *The APh Doctrine — A Final Framework for Universal Architecture*
