@@ -8,10 +8,10 @@
 
 ---
 
-## 🔬 Overview
+##  Overview
 The **APh Doctrine** establishes a formal framework for interpreting reality through a closed architectural model. By utilizing set-theoretic formalism and the principle of generative closure, it defines the limit of cognition and the synthesis of derivative realities.
 
-## 🧮 The Doctrine Formula
+##  The Doctrine Formula
 
 $$ \mathsf{OR} \equiv 1^\infty \cup 0^\infty $$
 
@@ -19,7 +19,7 @@ $$ \mathsf{OR} \implies \top ! \ |^{\mathsf{OR}} \ \big( \ B \ \land \ \nabla(B)
 
 $$ \mathfrak{D} : \mathfrak{S}^{*\circlearrowleft} \to 0^\infty $$
 
-## 🔑 Principal Implications
+##  Principal Implications
 *   **Mathematics:** Formal substantiation of fundamental uncertainty and re-evaluation of Gödelian Incompleteness.
 *   **Physics:** Identification of Time as lacking independent physical existence; proof of the impossibility of a Grand Unified Theory (GUT).
 *   **Economics:** Money–Time Identity and refutation of classical Property theories.
@@ -27,7 +27,7 @@ $$ \mathfrak{D} : \mathfrak{S}^{*\circlearrowleft} \to 0^\infty $$
 
 ---
 
-## 📄 Usage
+##  Usage
 The source code for the doctrine is provided in `doctrine.tex`. You can compile it using any LaTeX distribution (TeX Live, MiKTeX) or online editors like Overleaf.
 
 > *The APh Doctrine — A Final Framework for Universal Architecture*
